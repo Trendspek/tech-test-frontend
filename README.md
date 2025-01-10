@@ -18,3 +18,4 @@ yarn build
 
 The CSS file will be generated in `public/main.css`
 
+You will need to do something with `main.css` in the other part of the test.
